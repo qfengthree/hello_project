@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T07:52:26.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.7" etag="2LGRuJCAVsaDAN0jNX0_" type="github"><diagram id="oUbPAoCH5IBfG2fkSxFH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-27T08:12:30.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="K_sjJGuw37YR0JRUxwi2" version="20.2.7" type="github">
+  <diagram id="oUbPAoCH5IBfG2fkSxFH" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1acyIQyrpRFTn8TCteC4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1acyIQyrpRFTn8TCteC4-4" target="1acyIQyrpRFTn8TCteC4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1acyIQyrpRFTn8TCteC4-4" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;需求调研&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;应用服务摸底，收集业务数据诉求及痛点&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1acyIQyrpRFTn8TCteC4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1acyIQyrpRFTn8TCteC4-6" target="1acyIQyrpRFTn8TCteC4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1acyIQyrpRFTn8TCteC4-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;产品原型设计&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;梳理业务需求，设计产品原型&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1acyIQyrpRFTn8TCteC4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1acyIQyrpRFTn8TCteC4-8" target="1acyIQyrpRFTn8TCteC4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1acyIQyrpRFTn8TCteC4-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据集成&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;采集，清洗数据&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="454" y="220" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1acyIQyrpRFTn8TCteC4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1acyIQyrpRFTn8TCteC4-10" target="1acyIQyrpRFTn8TCteC4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1acyIQyrpRFTn8TCteC4-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;规范定义&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;口径定义，命名定义&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="220" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1acyIQyrpRFTn8TCteC4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1acyIQyrpRFTn8TCteC4-12" target="1acyIQyrpRFTn8TCteC4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1acyIQyrpRFTn8TCteC4-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据建模&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;数据仓库规范统一，模型粒度&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="860" y="220" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1acyIQyrpRFTn8TCteC4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1acyIQyrpRFTn8TCteC4-14" target="1acyIQyrpRFTn8TCteC4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1acyIQyrpRFTn8TCteC4-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ETL清洗&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;ETL任务开发,监控&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1060" y="220" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1acyIQyrpRFTn8TCteC4-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据服务输出&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;面向业务，用户数据服务：BI报表，用户画像，搜索推荐，数据服务，数据挖掘&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1260" y="220" width="180" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
